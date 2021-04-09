@@ -4,6 +4,7 @@
 
 @@@ index
 
+* [ingreso](ingreso/index.md)
 * [productos](productos/index.md)
 
 @@@
