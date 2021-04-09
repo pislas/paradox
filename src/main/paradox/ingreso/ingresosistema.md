@@ -7,7 +7,7 @@ Para ingresar al sistema, debemos pasar primero por la pantalla de [Login](http:
 Una vez allí, ingresamos el usuario (correo electrónico) y la contraseña correspondiente:
 ![Login Rellenado](./img/loginrellenado.png)
 
-Después de hacer clic en el botón 'Ingresar', el sistema nos conduce a la página de Inicio:
+Después de hacer clic en el botón **Ingresar**, el sistema nos conduce a la página de Inicio:
 ![Pantalla de Inicio](./img/pantallainicio.png)
 
 En el centro de la página se muestran el nombre de usuario y el nombre de la empresa.
