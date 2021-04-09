@@ -1,6 +1,7 @@
 # Ingreso al sistema
 
 ## Cómo ingresar
+
 Para ingresar al sistema, debemos pasar primero por la pantalla de [Login](http://181.126.82.164:9000/):
 ![Login](./img/login.png)
 
@@ -25,3 +26,30 @@ En la esquina superior derecha se observa el nombre de usuario, que se puede cli
 
 
 ## Navegación
+
+Una vez estemos ingresados, podremos acceder a las pestañas del sistema. En este caso, haremos clic en la pestaña **Productos**:
+
+![Pestaña productos marcada](./img/iniciopestana.png)
+
+El sistema nos llevará al menú principal de **Productos**, donde podemos ver las secciones y la cantidad de registros ingresados en cada una de ellas:
+
+![Menú principal de productos](./img/principalproductos.png)
+
+En la imagen se pueden ver tres secciones:
+
+* Categorías
+* Productos
+* Unidades de medida
+
+Todas y cada una de estas secciones puede ser accedida seleccionando su recuadro central correspondiente o haciendo clic sobre su nombre en la lista de la izquierda:
+
+![Entrar a una sección](./img/entraraseccion.png)
+*En la imagen observamos las opciones disponibles para entrar a la sección de Categorías*
+
+Al hacer clic en cualquiera de estas dos opciones, se mostrará la interfaz correspondiente a la sección:
+
+![Sección de Categorías](./img/seccioncategorias.png)
+*Imagen de la sección de Categorías*
+
+Podemos desplazarnos entre las secciones cliqueando la sección deseada en el índice de la izquierda:
+![Índice de Secciones](./img/indicesecciones.png)
