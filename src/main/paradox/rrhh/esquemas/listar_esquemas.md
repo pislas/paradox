@@ -1,6 +1,6 @@
 # Listar Esquemas
 
-Para listar los esquemas, hacemos clic en la pestaña **RRHH** y luego seleccionamos la opción *Esquemas*, ya sea en el índice izquierdo o en el recuadro central (*Esquemas de Salarios*):
+Para listar los esquemas, hacemos clic en la pestaña **RRHH** y luego seleccionamos la opción *Esquemas*, ya sea en el índice izquierdo o en el recuadro central *(Esquemas de Salarios)*:
 
 ![Acceso a Esquemas](img/acceso_esquemas.png)
 
