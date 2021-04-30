@@ -20,3 +20,5 @@ Una vez aquí, debemos seleccionar un esquema salarial, una sucursal, y rellenar
 Si queremos borrar un esquema, debemos hacer clic en el icono de la **'X'** correspondiente:
 
 ![Eliminar esquema](img/funcionarios_editar_salarios_borrar.png)
+
+*No se puede borrar un esquema que esté referenciado desde la pestaña **Adelantos***
