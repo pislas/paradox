@@ -1,4 +1,4 @@
-# Esquemas de Salario
+# Esquemas de Salarios
 
 @@toc { depth=1 } 
 @@@ index
@@ -10,6 +10,6 @@
 
 Los esquemas de salario definen los salarios a asignar.
 
-Para acceder a la funcionalidad de esquemas, hacemos clic en la pestaña **RRHH** y luego seleccionamos la opción *Esquemas*, ya sea en el índice izquierdo o en el recuadro central (*Esquemas de Salarios*):
+Para acceder a la funcionalidad de esquemas, hacemos clic en la pestaña **RRHH** y luego seleccionamos la opción *Esquemas*, ya sea en el índice izquierdo o en el recuadro central *(Esquemas de Salarios)*:
 
 ![Acceso a Esquemas](img/acceso_esquemas.png)
