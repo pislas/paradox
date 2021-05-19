@@ -1,4 +1,4 @@
-name := "paradox"
+name := "Pioneer"
 
 version := "0.1"
 

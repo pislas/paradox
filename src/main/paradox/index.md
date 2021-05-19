@@ -1,14 +1,12 @@
-# Voyager
+# Pioneer
 
-## Bienvenido!
+Bienvenido a la documentación del Sistema para Profesores
+de el Centro Educativo La Esperanza.
 
+@@toc
 @@@ index
-
 * [ingreso](ingreso/index.md)
-* [productos](productos/index.md)
-* [rrhh](rrhh/index.md)
-* [profesores](profesores/index.md)
-
+* [cursos](cursos/index.md)
 @@@
 
-Esta es la página del Manual de Voyager.
+Esta es la página del Manual de Pioneer.

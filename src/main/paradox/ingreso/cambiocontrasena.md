@@ -1,9 +1,14 @@
 # Cambio de contraseña
-Para realizar un cambio de contraseña, debemos desplegar el menú de opciones haciendo clic en nuestro perfil, situado en la esquina superior derecha:
+Para realizar un cambio de contraseña, se debe navegar al sistema Voyager.
+Desplegar el menú de opciones de Pioneer haciendo clic en nuestro perfil, situado en la esquina superior derecha, y luego
+click en Voyager:
 
 ![Menú de Opciones](./img/menuopciones.png)
 
-*Si está usando una pantalla pequeña, haga clic en el botón con tres líneas, luego busque su nombre.*
+Luego el sistema lleva al usuario a la pantalla principal de Voyager, donde de nuevo
+click en esquina superior derecha:
+![Voyager](img/voyager.png)
+
 
 Seleccionamos la opción **Editar mi perfil**, el sistema nos mostrará la visualización del perfil:
 
