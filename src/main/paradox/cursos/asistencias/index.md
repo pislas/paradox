@@ -3,6 +3,8 @@
 
 @@@ index
 * [Asistencias](asistencias/index.md)
+* [Clases](clases/index.md)
+
 @@@
 
 

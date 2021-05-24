@@ -25,7 +25,7 @@ Los filtros permiten buscar asistencias de acuerdo a varios criterios, que puede
 * Fecha Desde . Permite buscar las planillas con fecha de inicio mayor o igual al seleccionado.
 * Fecha Hasta . Permite buscar las asistencias con fecha de finalizacion menor o igual al seleccionado.
 
-Luego de completar los filtros requeridos. Se puede pulsar **Filtrar**, para que se muestren los resultados de la
+Actualmente la grilla inicializa los filtros con el primer y ultimo día de la semana actual. Luego de completar los filtros requeridos. Se puede pulsar **Filtrar**, para que se muestren los resultados de la
 busqueda en la grilla. Si se requiere vaciar o restabler los filtros se puede pulsar **Limpiar** y luego **Filtrar**.
 
 ## Grilla
