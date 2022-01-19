@@ -6,7 +6,11 @@ de el Centro Educativo La Esperanza.
 @@toc
 @@@ index
 * [ingreso](ingreso/index.md)
+* [administración](administracion/index.md)
+* [productos](productos/index.md)
+* [ventas](ventas/index.md)
 * [cursos](cursos/index.md)
+* [pioneer](pioneer/index.md)
 @@@
 
 Esta es la página del Manual de Pioneer.

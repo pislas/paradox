@@ -2,7 +2,7 @@
 
 ## Cómo ingresar
 
-Para ingresar al sistema, debemos pasar primero por la pantalla de [Login](https://cele.espy.cloud):
+Para ingresar al sistema, debemos pasar primero por la pantalla de [Login](https://stael.espy.cloud):
 
 ![Login](./img/login.png)
 
