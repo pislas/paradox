@@ -1,7 +1,14 @@
 #Mantener Planes
 
-Un plan de estudios se asocia a una carrera para definir la malla curricular
-de la carrera.
+@@toc
+@@@ index
+* [Crear](crear.md)
+* [Editar](editar.md)
+* [Nodos Académicos](nodos_academicos.md)
+* [Estructura](estructura.md)
+@@@
+
+Un plan de estudios se asocia a una carrera para definir la malla curricular.
 El plan de estudio se debe estructurar con las asignaturas que deben o pueden cursar
 los alumnos de la carrera.
 

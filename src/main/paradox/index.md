@@ -9,7 +9,6 @@ de el Centro Educativo La Esperanza.
 * [administración](administracion/index.md)
 * [productos](productos/index.md)
 * [ventas](ventas/index.md)
-* [cursos](cursos/index.md)
 * [pioneer](pioneer/index.md)
 @@@
 

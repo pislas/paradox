@@ -2,6 +2,9 @@
 @@toc
 @@@ index
 * [Plan De Estudios](plan_de_estudio/index.md)
+* [Calendario](calendario/index.md)
+* [Cursos](cursos/index.md)
+* [Inscripciones](inscripciones/index.md)
 @@@
 
 El sistema académico Pioneer ofrece los siguientes módulos:
