@@ -6,6 +6,9 @@
 * [Editar Curso](editar_curso.md)
 * [Asignatura, Esquema y Fecha Base](asignaturas.md)
 * [Horarios](horarios.md)
+* [Clases](clases/index.md)
+* [Actividades](actividades/index.md)
+* [Actas](actas/index.md)
 @@@
 
 Los cursos se utilizan para dictar las asignaturas a los alumnos en un periodo.

@@ -5,6 +5,9 @@
 * [Inscripciones a Cursos](inscripciones_a_cursos.md)
 * [Deuda de Inscripcion](deuda_de_inscripcion.md)
 * [Pago de Deudas](pago_de_deudas.md)
+* [Descuentos de alumno](descuentos_de_alumno.md)
+* [Razon Social](razon_social.md)
+* [Facturación](facturacion.md)
 @@@
 
 El módulo inscripciones se utiliza para:
