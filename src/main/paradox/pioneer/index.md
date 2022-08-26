@@ -5,6 +5,7 @@
 * [Calendario](calendario/index.md)
 * [Cursos](cursos/index.md)
 * [Inscripciones](inscripciones/index.md)
+* [CRM](crm/index.md)
 @@@
 
 El sistema académico Pioneer ofrece los siguientes módulos:
