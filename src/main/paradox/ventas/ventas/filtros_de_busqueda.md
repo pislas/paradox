@@ -24,4 +24,6 @@ En la esquina inferior izquierda podemos encontrar los botones __Buscar__ y __Li
 
 ![Agregar venta](./img/listado_de_ventas2.png)
 
-Al presionar el botón __Agregar venta__ el usuario puede añadir un nuevo registro de venta al sistema.
+Al presionar el botón __Agregar venta__ que se encuentra bajo los filtros, el usuario puede añadir un nuevo registro de venta al sistema.
+
+
