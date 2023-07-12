@@ -3,6 +3,9 @@
 @@toc { depth=1 } 
 @@@ index
 * [Listado de ventas](listado_de_ventas.md)
+* [Agregar venta](agregar_venta.md)
+* [Editar venta](editar_venta.md)
+
 @@@
 
 ## Introduccion
